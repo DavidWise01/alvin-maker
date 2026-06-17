@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Calvin Miller",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "natural",
+  "moniker": "⟦Calvin Miller:ALV:f8b828⟧",
+  "carbon": "calvin-miller.carbon.tiff (TIFF)",
+  "silicon": "calvin-miller.silicon.png (PNG)",
+  "seal_sha256": "ac1059bc545253d696f3e3611f441a4384357804d5f0fa5dc09c7eeae7c610f8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

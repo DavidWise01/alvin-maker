@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ta-Kumsaw",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "natural",
+  "moniker": "⟦Ta-Kumsaw:ALV:acd9f4⟧",
+  "carbon": "ta-kumsaw.carbon.tiff (TIFF)",
+  "silicon": "ta-kumsaw.silicon.png (PNG)",
+  "seal_sha256": "b2993222d915b5eb7b69a49a74a41ac3389d8403eacf997c7476f4e8fe9120a1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

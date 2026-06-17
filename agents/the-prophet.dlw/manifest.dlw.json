@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Prophet",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "spiritual",
+  "moniker": "⟦The Prophet:ALV:183345⟧",
+  "carbon": "the-prophet.carbon.tiff (TIFF)",
+  "silicon": "the-prophet.silicon.png (PNG)",
+  "seal_sha256": "21e47c76c3304284c8dbd636f11b9023a3d856863a151acee191d048554c3993",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

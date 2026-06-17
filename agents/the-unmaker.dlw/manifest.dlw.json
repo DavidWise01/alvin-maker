@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Unmaker",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "ethereal",
+  "moniker": "⟦The Unmaker:ALV:d7ed01⟧",
+  "carbon": "the-unmaker.carbon.tiff (TIFF)",
+  "silicon": "the-unmaker.silicon.png (PNG)",
+  "seal_sha256": "d77e03ea99c367ec449bdfe5456f379da9bfab89f64013cadd9cbae64165d45b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

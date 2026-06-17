@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Reverend Thrower",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "ethereal",
+  "moniker": "⟦Reverend Thrower:ALV:ce7f99⟧",
+  "carbon": "reverend-thrower.carbon.tiff (TIFF)",
+  "silicon": "reverend-thrower.silicon.png (PNG)",
+  "seal_sha256": "01a7b91396c686252f607511aa2effad29eaeb45d33139b0d0c1dd2ab5c36b99",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

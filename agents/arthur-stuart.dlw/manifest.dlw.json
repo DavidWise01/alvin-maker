@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Arthur Stuart",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "natural",
+  "moniker": "⟦Arthur Stuart:ALV:b77c46⟧",
+  "carbon": "arthur-stuart.carbon.tiff (TIFF)",
+  "silicon": "arthur-stuart.silicon.png (PNG)",
+  "seal_sha256": "4a53a682d7f910948a5a23436c845b02354f62153a86e244f94a69b8f0a6140e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

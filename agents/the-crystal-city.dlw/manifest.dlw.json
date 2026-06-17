@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Crystal City",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "spiritual",
+  "moniker": "⟦The Crystal City:ALV:b75463⟧",
+  "carbon": "the-crystal-city.carbon.tiff (TIFF)",
+  "silicon": "the-crystal-city.silicon.png (PNG)",
+  "seal_sha256": "826f173611a8a2b882925cfddc8c46665a56ae8b3b341aea3ce337186aaab76e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

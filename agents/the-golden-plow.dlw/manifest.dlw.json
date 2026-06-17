@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Golden Plow",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "electrical",
+  "moniker": "⟦The Golden Plow:ALV:2d5cab⟧",
+  "carbon": "the-golden-plow.carbon.tiff (TIFF)",
+  "silicon": "the-golden-plow.silicon.png (PNG)",
+  "seal_sha256": "314f662741531f4f85c59e1411c855aa9f0f896d6e073d0b633d2965ae7fe213",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

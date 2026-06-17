@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Governor Harrison",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "natural",
+  "moniker": "⟦Governor Harrison:ALV:a0cca7⟧",
+  "carbon": "governor-harrison.carbon.tiff (TIFF)",
+  "silicon": "governor-harrison.silicon.png (PNG)",
+  "seal_sha256": "4a2ec9ddceea641fe8ad11f7f805408f95e7fbed46ea5b63be6ab54940b3ef8d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

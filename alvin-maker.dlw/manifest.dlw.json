@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE TALES OF ALVIN MAKER",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "",
+  "moniker": "⟦THE TALES OF ALVIN MAKER:ALV:61bae0⟧",
+  "carbon": "alvin-maker.carbon.tiff (TIFF)",
+  "silicon": "alvin-maker.silicon.png (PNG)",
+  "seal_sha256": "31047b6f5dab64efd30d216bb535a4be49cbf35c29ebbbff11383b16e5d21a32",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

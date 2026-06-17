@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Verily Cooper",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "electrical",
+  "moniker": "⟦Verily Cooper:ALV:b0d98a⟧",
+  "carbon": "verily-cooper.carbon.tiff (TIFF)",
+  "silicon": "verily-cooper.silicon.png (PNG)",
+  "seal_sha256": "03d439253f2788781d54d29de5682c1ba974154bd27f29e756d0cfb4bb4624b6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

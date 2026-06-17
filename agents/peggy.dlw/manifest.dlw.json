@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Peggy (Margaret)",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "spiritual",
+  "moniker": "⟦Peggy (Margaret):ALV:c93628⟧",
+  "carbon": "peggy.carbon.tiff (TIFF)",
+  "silicon": "peggy.silicon.png (PNG)",
+  "seal_sha256": "fe65d15a9dd801dafbd756066377aeb797f3236d4ab77eeab48edc83f97c949c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

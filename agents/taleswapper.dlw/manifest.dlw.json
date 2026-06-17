@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Taleswapper",
+  "universe": "ALV · The Tales of Alvin Maker",
+  "emergence": "spiritual",
+  "moniker": "⟦Taleswapper:ALV:21d5d6⟧",
+  "carbon": "taleswapper.carbon.tiff (TIFF)",
+  "silicon": "taleswapper.silicon.png (PNG)",
+  "seal_sha256": "4ba227735368aafc4c191a658674c23a1e7e0d199666738890f602b230da74e7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
