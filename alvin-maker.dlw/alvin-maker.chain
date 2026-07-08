@@ -4,6 +4,6 @@ slug  : alvin-maker
 seal  : 31047b6f5dab64efd30d216bb535a4be49cbf35c29ebbbff11383b16e5d21a32
 prev  : 9b6912048f19f5a5b73e15b04b91589510859ebb3cdda10417de0a258187a222
 link  : 2d57066b031328ce3779a7533b9475275aa5eea0144147a61453a4da0b23ebeb
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
